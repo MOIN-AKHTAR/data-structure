@@ -2,6 +2,7 @@ const isAnagram=(wordOne,wordTwo)=>{
     if(wordOne.length!==wordTwo.length)throw new Error("This is not anagram");
     let obj={};
 
+    // This loop will set obj with character and it's frequency like this {a:2,t:1,m:2}
     for (let i = 0; i < wordOne.length; i++) {
         obj[wordOne[i]]?obj[wordOne[i]]+=1:obj[wordOne[i]]=1;
     }
