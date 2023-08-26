@@ -1,3 +1,9 @@
+// BIG O
+// INSTARTION O(1)
+// REMOVAL O(1)
+// SEARCHING O(N)
+// ACCESS O(N)
+
 class Node {
     constructor(value){
         this.value = value;
