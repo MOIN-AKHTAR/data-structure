@@ -1,3 +1,9 @@
+// BIG O
+// INSERTION O(1)
+// REMOVAL IT DEPENDS BEST CASE O(1) WORST CASE O(N)
+// SEARCHING O(N)
+// ACCESS O(N)
+
 class Node{
     constructor(val){
         this.val = val;
