@@ -6,7 +6,7 @@
 // We have two type of graphs directed and undirected.
 // Now inorder to store connection between vertix we have 2 ways.
 //  1. ADJACENCY MATRIX
-//  2. 
+//  2. ADJACENCY LIST
 // 1. ADJACENCY MATRIX:-
 //     A   B    C   D   
 //  A  1   0    0   0
